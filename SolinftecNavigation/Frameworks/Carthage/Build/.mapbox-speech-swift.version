@@ -1,0 +1,19 @@
+{
+  "commitish" : "v2.1.1",
+  "iOS" : [
+    {
+      "identifier" : "ios-arm64",
+      "swiftToolchainVersion" : "5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)",
+      "name" : "MapboxSpeech",
+      "container" : "MapboxSpeech.xcframework",
+      "hash" : "61c71b7bb257e507b10b89d32f7e3cde54f753ab4e37fbec4dccfbec834e01f4"
+    },
+    {
+      "container" : "MapboxSpeech.xcframework",
+      "hash" : "d43376dfc8cc297aaea1bc9f7daddc6bd036ea92cd21ca44f185e5d1212542ec",
+      "name" : "MapboxSpeech",
+      "identifier" : "ios-arm64_x86_64-simulator",
+      "swiftToolchainVersion" : "5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+    }
+  ]
+}

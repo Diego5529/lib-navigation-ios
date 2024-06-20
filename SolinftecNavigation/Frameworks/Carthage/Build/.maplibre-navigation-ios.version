@@ -1,0 +1,33 @@
+{
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)",
+      "container" : "MapboxCoreNavigation.xcframework",
+      "name" : "MapboxCoreNavigation",
+      "identifier" : "ios-arm64",
+      "hash" : "92fabf168c8b39bc474550a1c1acfc84ab711d059288632b78cf44f06ed81f4e"
+    },
+    {
+      "swiftToolchainVersion" : "5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)",
+      "identifier" : "ios-arm64_x86_64-simulator",
+      "hash" : "a0e3d3bb1a715ef728d5e0369798dcd837ed086cb75dff5318a3ede109fb224c",
+      "name" : "MapboxCoreNavigation",
+      "container" : "MapboxCoreNavigation.xcframework"
+    },
+    {
+      "hash" : "9b7f88c888a10576a0ad485a950d6885a08538e5f4bbba5f32a45ca308cd6b19",
+      "swiftToolchainVersion" : "5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)",
+      "name" : "MapboxNavigation",
+      "container" : "MapboxNavigation.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "container" : "MapboxNavigation.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator",
+      "name" : "MapboxNavigation",
+      "hash" : "fafba16b20258f57bea4c93c5b79bfc25cda40961d21f0c791e12a07ac27a4fa",
+      "swiftToolchainVersion" : "5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+    }
+  ],
+  "commitish" : "v2.0.0"
+}
